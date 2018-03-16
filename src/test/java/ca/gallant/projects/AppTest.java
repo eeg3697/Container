@@ -33,7 +33,7 @@ public class AppTest
      */
     public void testApp()
     {
-        System.out.println("Eric Gallant");
+        System.out.println("Kedric Gallant");
         assertTrue( true );
 
     }
